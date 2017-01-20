@@ -1,2 +1,1 @@
-# ripple
-Ripple effect on any element
+# Ripple effect in CSS and JavaScript
